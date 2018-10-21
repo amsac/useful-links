@@ -1,1 +1,4 @@
 
+testing react apps:  
+
+https://www.toptal.com/react/tdd-react-unit-testing-enzyme-jest
